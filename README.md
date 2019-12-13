@@ -1,3 +1,3 @@
 # hello-world
 
-#This repository is my playground as I journey from novice to expert in python
+#This repository is my test/practice codes
