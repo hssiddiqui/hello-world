@@ -1,3 +1,3 @@
 # hello-world
 
-#This repository is my test/practice codes
+#This repository is my test/practice scripts
