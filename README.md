@@ -7,5 +7,5 @@ Test/reference scripts
  
 2- Working_with_files.ipynb : Reading and wiriting files, OS path utilities and file system shell (shutil)
  
-3- Pandas_Essentials.ipynb : Basic Analysis, plotting (matplotlib & seaborn), indexing, groupby, reshaping
-See
+3- Pandas_Essentials.ipynb : Basic Analysis, plotting (matplotlib & seaborn), indexing, groupby, reshaping.
+Additional files (olympics.csv and Python_Seaborn_Cheat_Sheet.pdf)
