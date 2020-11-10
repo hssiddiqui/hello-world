@@ -9,3 +9,5 @@ Test/reference scripts
  
 3- Pandas_Essentials.ipynb : Basic Analysis, plotting (matplotlib & seaborn), indexing, groupby, reshaping.
 Additional files (olympics.csv and Python_Seaborn_Cheat_Sheet.pdf)
+
+4- DL_Essentials.ipynb: Raster data access, data management, scalable compute, interactive computing on Descartes Labs platform
