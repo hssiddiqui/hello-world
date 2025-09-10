@@ -11,3 +11,5 @@ Test/reference scripts
 Additional files (olympics.csv and Python_Seaborn_Cheat_Sheet.pdf)
 
 4- DL_Essentials.ipynb: Raster data access, data management, scalable compute, interactive computing on Descartes Labs platform
+
+5- Data_Structures_&_Algorithms.ipynb: Breakdown of data structures (Lists, Dictionaries, Trees etc.) and algorithms with examples
