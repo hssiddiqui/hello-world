@@ -7,7 +7,7 @@ Submit a **concise analytical report** that describes your **validation approach
 ## Submission
 Strong submissions are **reproducible**, present a **clear analytical narrative**, and base conclusions on **rigorous validation**.  
 Submissions may be reviewed prior to the interview and will be used as the basis for discussion.
-You may use any tools you deem appropriate, including code, documentation, or LLM tools (within the confidentiality constraints explained in the email).
+You may use any tools you deem appropriate, including code, documentation, or LLM tools.
 ## Timeframe
 **~3 calendar days from reciving this question package**
 
